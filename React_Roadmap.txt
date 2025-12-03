@@ -1,0 +1,347 @@
+✅ React Full Learning Checklist (Beginner → Advanced)
+(Every topic included — no skips, no missing small topics)
+🟩 1. Prerequisites (JavaScript & Fundamentals)
+
+JavaScript Basics
+
+ let / const
+
+ Arrow functions
+
+ Template literals
+
+ Spread operator
+
+ Rest operator
+
+ Destructuring (objects + arrays)
+
+ Import / export modules
+
+ Promises
+
+ async / await
+
+ Array methods (map, filter, reduce, find)
+
+ JSON basics
+
+ DOM basics
+
+🟩 2. React Basics
+
+ What is React?
+
+ SPA vs MPA
+
+ Virtual DOM
+
+ Declarative UI
+
+ Component-based architecture
+
+🟩 3. JSX
+
+ What is JSX
+
+ Embedding expressions
+
+ JSX rules
+
+ Differences from HTML (className, htmlFor, etc.)
+
+ Fragments (<> </>)
+
+🟩 4. Components
+
+ Functional components
+
+ Component naming rules
+
+ Props in components
+
+ Exporting/importing components
+
+ Reusable components
+
+ Component folder structure
+
+🟩 5. Props
+
+ Passing props
+
+ Receiving props
+
+ Destructuring props
+
+ Default props
+
+ Props vs state
+
+ Passing functions as props
+
+ Children prop
+
+ Conditional props
+
+🟩 6. State (useState)
+
+ Creating state
+
+ Updating state
+
+ Async nature of state updates
+
+ Updating objects in state
+
+ Updating arrays in state
+
+ Functional updates
+
+ State batching
+
+🟩 7. Events
+
+ onClick
+
+ onChange
+
+ onSubmit
+
+ Prevent default
+
+ Event parameters
+
+ Synthetic events
+
+🟩 8. Rendering Logic
+
+ Conditional rendering
+
+ Ternary operator
+
+ Short-circuiting (&&)
+
+ Rendering lists with map
+
+ Using keys correctly
+
+ Inline styles vs CSS classes
+
+🟩 9. useEffect (Lifecycle)
+
+ What is useEffect
+
+ useEffect with dependency array
+
+ Empty dependency array
+
+ Cleanup function
+
+ Avoiding infinite loops
+
+ API calls inside useEffect
+
+ Multiple effects in one component
+
+ useEffect vs useLayoutEffect
+
+🟩 10. Forms
+
+ Controlled components
+
+ Handling text inputs
+
+ Handling checkbox inputs
+
+ Handling radio inputs
+
+ Handling select dropdowns
+
+ Multi-field forms
+
+ Form validation (basic)
+
+🟩 11. Styling in React
+
+ Normal CSS
+
+ CSS Modules
+
+ Inline styles
+
+ Styled-components
+
+ Tailwind CSS (optional)
+
+ Global vs local styles
+
+🟩 12. Fetching Data (API Integration)
+
+ fetch API
+
+ axios
+
+ GET / POST / PUT / DELETE
+
+ Loading state
+
+ Error state
+
+ Try/catch for errors
+
+ Abort controllers (cancel requests)
+
+🟩 13. React Router
+
+ Install React Router
+
+ BrowserRouter
+
+ Routes & Route
+
+ Nested routes
+
+ useNavigate
+
+ useParams
+
+ Protected routes
+
+ 404 page
+
+🟩 14. Advanced Hooks
+
+ useRef
+
+ useMemo
+
+ useCallback
+
+ useContext
+
+ useReducer
+
+ Custom hooks
+
+🟩 15. State Management
+
+Context API
+
+ Creating context
+
+ Provider & consumer
+
+ Avoiding re-renders
+
+Redux Toolkit
+
+ Store setup
+
+ Slice
+
+ Actions
+
+ Reducers
+
+ Dispatch
+
+ Selectors
+
+ Async thunks
+
+Zustand (optional)
+
+ Store creation
+
+ Using hooks
+
+🟩 16. Performance Optimization
+
+ React.memo
+
+ useMemo
+
+ useCallback
+
+ Splitting components
+
+ Lazy loading
+
+ Suspense basics
+
+🟩 17. React Patterns
+
+ Container vs presentational
+
+ Controlled vs uncontrolled components
+
+ Compound components
+
+ Render props
+
+ HOCs (Higher-order components)
+
+ Smart vs dumb components
+
+🟩 18. Error Handling
+
+ Error boundaries
+
+ Try/catch
+
+ Fallback UI
+
+ API error handling patterns
+
+🟩 19. Testing (Optional but useful for jobs)
+
+ Jest
+
+ React Testing Library
+
+ Unit testing components
+
+ Mocking API calls
+
+ Snapshot testing
+
+🟩 20. Deployment
+
+ Build with Vite or CRA
+
+ Environment variables
+
+ Minification & bundling
+
+ Deploy to Netlify
+
+ Deploy to Vercel
+
+ Deploy to GitHub Pages
+
+🟩 21. Extra Topics (Good for interviews)
+
+ Immutable state
+
+ Pure components
+
+ Debounce & throttle
+
+ React event loop basics
+
+ Reconciliation algorithm basics
+
+ Why keys are important
+
+ Controlled vs uncontrolled deep understanding
+
+🟩 22. Bonus (Optional)
+
+ TypeScript with React
+
+ React Query
+
+ Next.js basics
+
+ UI libraries (MUI, Ant Design, Chakra UI)
